@@ -1,0 +1,1201 @@
+product_id,product_name,category,cost_price,list_price
+1,Ultra Dress,Clothing,17.89,28.35
+2,Compact Dress,Clothing,180.79,249.67
+3,Ultra Sneakers,Clothing,15.12,21.19
+4,Smart Card Game,Toys & Games,76.4,121.37
+5,Max Face Mask,Beauty & Health,7.12,12.36
+6,Pro Jeans,Clothing,18.19,34.47
+7,Basic Blender,Home & Kitchen,157.27,317.0
+8,Deluxe Textbook,Books,3.39,6.38
+9,Eco Cookbook,Books,35.94,61.53
+10,Deluxe Textbook,Books,37.39,63.8
+11,Classic Puzzle,Toys & Games,86.31,166.46
+12,Pro Monitor,Electronics,921.35,1443.62
+13,Classic Puzzle,Toys & Games,109.67,227.84
+14,Basic Cap,Clothing,27.45,37.77
+15,Classic Stapler,Office Supplies,8.48,12.18
+16,Eco Cookware Set,Home & Kitchen,295.76,506.05
+17,Classic Bicycle Pump,Sports & Outdoors,233.41,342.41
+18,Max Puzzle,Toys & Games,49.23,73.82
+19,Basic Building Blocks,Toys & Games,146.17,211.72
+20,Ultra Cap,Clothing,89.16,127.76
+21,Pro Shampoo,Beauty & Health,11.11,17.54
+22,Pro Speaker,Electronics,143.49,208.46
+23,Compact Notebook,Office Supplies,71.29,128.7
+24,Pro Monitor,Electronics,202.95,439.0
+25,Pro Headphones,Electronics,129.86,196.09
+26,Pro Notebook,Office Supplies,62.55,107.52
+27,Premium Charger,Electronics,949.02,1442.39
+28,Deluxe Perfume,Beauty & Health,26.7,41.54
+29,Smart Card Game,Toys & Games,84.81,160.89
+30,Premium Notebook,Office Supplies,3.08,5.18
+31,Classic Yoga Mat,Sports & Outdoors,168.67,290.48
+32,Basic Toaster,Home & Kitchen,30.47,55.47
+33,Max Vacuum,Home & Kitchen,232.44,371.57
+34,Basic Speaker,Electronics,248.73,504.98
+35,Pro Yoga Mat,Sports & Outdoors,261.67,447.77
+36,Eco Card Game,Toys & Games,85.94,184.58
+37,Max Stapler,Office Supplies,22.79,36.86
+38,Premium Desk Organizer,Office Supplies,64.63,136.08
+39,Basic Jeans,Clothing,165.74,244.13
+40,Basic Dumbbell,Sports & Outdoors,337.13,456.39
+41,Max Bicycle Pump,Sports & Outdoors,254.91,374.25
+42,Eco Jeans,Clothing,9.07,15.24
+43,Deluxe Blender,Home & Kitchen,231.38,442.7
+44,Compact Notebook,Office Supplies,29.14,45.63
+45,Max Yoga Mat,Sports & Outdoors,67.62,150.25
+46,Classic Textbook,Books,4.5,7.42
+47,Smart Vitamin Pack,Beauty & Health,51.36,78.48
+48,Max Dumbbell,Sports & Outdoors,205.38,312.47
+49,Deluxe Novel,Books,37.17,57.76
+50,Ultra Biography,Books,3.61,6.67
+51,Classic Card Game,Toys & Games,50.45,96.55
+52,Ultra Tent,Sports & Outdoors,45.69,62.34
+53,Deluxe Tent,Sports & Outdoors,181.85,255.78
+54,Classic Moisturizer,Beauty & Health,116.71,157.96
+55,Compact Action Figure,Toys & Games,133.63,182.72
+56,Eco Perfume,Beauty & Health,46.08,90.63
+57,Compact Lamp,Home & Kitchen,68.58,131.35
+58,Pro Charger,Electronics,243.64,467.82
+59,Basic Biography,Books,6.56,9.23
+60,Premium Cap,Clothing,41.36,74.91
+61,Max Router,Electronics,852.94,1407.38
+62,Classic Bicycle Pump,Sports & Outdoors,51.35,77.97
+63,Ultra Vacuum,Home & Kitchen,128.63,236.01
+64,Deluxe Biography,Books,35.14,56.67
+65,Max Hoodie,Clothing,135.3,279.96
+66,Basic Kettle,Home & Kitchen,80.16,164.23
+67,Ultra Card Game,Toys & Games,23.18,46.15
+68,Eco Cookbook,Books,26.41,46.84
+69,Smart Pen Set,Office Supplies,77.51,104.23
+70,Compact Textbook,Books,35.72,70.35
+71,Basic Jacket,Clothing,54.62,109.14
+72,Deluxe Sneakers,Clothing,29.13,46.48
+73,Smart Action Figure,Toys & Games,50.96,83.81
+74,Classic Vitamin Pack,Beauty & Health,102.06,159.78
+75,Classic Keyboard,Electronics,340.71,525.7
+76,Smart Face Mask,Beauty & Health,45.94,70.59
+77,Compact Guidebook,Books,4.56,8.04
+78,Eco Backpack,Sports & Outdoors,221.85,489.51
+79,Premium Tablet,Electronics,718.79,1494.33
+80,Ultra Action Figure,Toys & Games,107.7,156.52
+81,Pro Knife Set,Home & Kitchen,249.72,542.38
+82,Basic Knife Set,Home & Kitchen,223.48,399.41
+83,Compact Water Bottle,Sports & Outdoors,86.41,179.13
+84,Max Cookware Set,Home & Kitchen,343.75,533.14
+85,Premium Pen Set,Office Supplies,37.07,65.1
+86,Pro Cookbook,Books,10.03,21.93
+87,Max Jacket,Clothing,148.93,255.72
+88,Eco Cookbook,Books,42.24,72.31
+89,Max Tent,Sports & Outdoors,23.62,46.61
+90,Basic Textbook,Books,24.45,53.33
+91,Deluxe Card Game,Toys & Games,74.92,124.02
+92,Pro Tent,Sports & Outdoors,202.47,298.07
+93,Max Stapler,Office Supplies,38.87,64.51
+94,Pro Kettle,Home & Kitchen,275.7,389.37
+95,Max Backpack,Sports & Outdoors,112.02,157.75
+96,Ultra Board Game,Toys & Games,62.53,127.79
+97,Smart Perfume,Beauty & Health,73.95,144.07
+98,Deluxe Textbook,Books,41.15,69.82
+99,Eco Vitamin Pack,Beauty & Health,18.96,30.58
+100,Compact Speaker,Electronics,494.12,720.8
+101,Deluxe Guidebook,Books,32.91,70.99
+102,Eco Notebook,Office Supplies,46.23,71.78
+103,Deluxe Cookware Set,Home & Kitchen,170.99,335.81
+104,Basic T-Shirt,Clothing,158.85,268.72
+105,Deluxe Printer Paper,Office Supplies,70.92,126.97
+106,Basic Guidebook,Books,37.29,57.79
+107,Premium Keyboard,Electronics,458.09,946.6
+108,Classic Tent,Sports & Outdoors,220.27,348.35
+109,Ultra Cookware Set,Home & Kitchen,121.33,242.06
+110,Ultra Action Figure,Toys & Games,66.78,110.47
+111,Deluxe Building Blocks,Toys & Games,113.02,214.31
+112,Pro Bicycle Pump,Sports & Outdoors,109.75,174.62
+113,Pro Building Blocks,Toys & Games,143.39,193.54
+114,Deluxe Jeans,Clothing,157.75,238.57
+115,Smart Cookbook,Books,51.14,69.38
+116,Compact Card Game,Toys & Games,91.22,149.17
+117,Classic Backpack,Sports & Outdoors,246.56,427.18
+118,Pro Vitamin Pack,Beauty & Health,59.48,107.52
+119,Ultra Tent,Sports & Outdoors,342.51,478.16
+120,Eco Desk Organizer,Office Supplies,63.48,112.65
+121,Max Desk Organizer,Office Supplies,78.56,136.46
+122,Premium Printer Paper,Office Supplies,15.05,20.18
+123,Basic Building Blocks,Toys & Games,83.73,180.49
+124,Eco Vitamin Pack,Beauty & Health,23.78,43.22
+125,Max Textbook,Books,5.5,8.98
+126,Ultra Bicycle Pump,Sports & Outdoors,215.77,348.29
+127,Ultra Headphones,Electronics,775.44,1189.22
+128,Ultra Board Game,Toys & Games,134.08,184.83
+129,Ultra Vacuum,Home & Kitchen,175.76,238.46
+130,Deluxe Action Figure,Toys & Games,117.86,173.92
+131,Pro Novel,Books,13.92,23.95
+132,Ultra Tent,Sports & Outdoors,87.22,149.59
+133,Max Textbook,Books,33.85,55.78
+134,Basic Building Blocks,Toys & Games,107.95,239.41
+135,Ultra Textbook,Books,3.77,7.67
+136,Eco Keyboard,Electronics,194.58,385.8
+137,Premium Desk Organizer,Office Supplies,98.94,135.1
+138,Compact Blender,Home & Kitchen,367.95,596.66
+139,Deluxe Tablet,Electronics,807.41,1310.23
+140,Deluxe Vacuum,Home & Kitchen,265.6,404.1
+141,Premium Keyboard,Electronics,662.78,914.46
+142,Max Cap,Clothing,132.09,198.99
+143,Smart Cookbook,Books,9.27,16.14
+144,Pro Sneakers,Clothing,100.38,142.62
+145,Compact Shampoo,Beauty & Health,103.75,160.01
+146,Eco Vacuum,Home & Kitchen,16.43,28.17
+147,Smart Action Figure,Toys & Games,117.38,158.5
+148,Max Router,Electronics,398.52,639.58
+149,Eco Dumbbell,Sports & Outdoors,56.22,78.49
+150,Deluxe Bicycle Pump,Sports & Outdoors,232.79,334.91
+151,Deluxe Desk Organizer,Office Supplies,56.88,99.9
+152,Premium Card Game,Toys & Games,55.75,98.42
+153,Max Building Blocks,Toys & Games,69.41,106.16
+154,Eco Cap,Clothing,54.88,84.53
+155,Compact Keyboard,Electronics,715.56,1001.41
+156,Basic Lamp,Home & Kitchen,163.52,300.38
+157,Classic Stapler,Office Supplies,34.3,68.27
+158,Classic Lamp,Home & Kitchen,36.5,55.87
+159,Classic Biography,Books,13.92,27.05
+160,Premium T-Shirt,Clothing,137.71,266.65
+161,Basic Card Game,Toys & Games,28.25,41.37
+162,Pro Building Blocks,Toys & Games,119.94,170.32
+163,Smart Notebook,Office Supplies,91.65,136.36
+164,Max Keyboard,Electronics,332.14,581.87
+165,Ultra Building Blocks,Toys & Games,132.55,190.18
+166,Basic Tablet,Electronics,421.06,641.63
+167,Compact Keyboard,Electronics,153.95,274.48
+168,Ultra Guidebook,Books,38.3,79.49
+169,Smart Vacuum,Home & Kitchen,32.8,72.16
+170,Pro Charger,Electronics,796.23,1274.56
+171,Basic Lamp,Home & Kitchen,17.0,26.93
+172,Max Toaster,Home & Kitchen,118.62,180.82
+173,Pro Biography,Books,4.36,7.61
+174,Max Stapler,Office Supplies,70.83,120.65
+175,Basic Notebook,Office Supplies,34.88,65.48
+176,Compact Headphones,Electronics,408.16,701.26
+177,Pro Dumbbell,Sports & Outdoors,136.16,210.98
+178,Basic Water Bottle,Sports & Outdoors,123.7,255.78
+179,Max Water Bottle,Sports & Outdoors,140.1,274.14
+180,Smart Lamp,Home & Kitchen,154.15,268.73
+181,Deluxe Hoodie,Clothing,105.44,170.71
+182,Pro Building Blocks,Toys & Games,76.06,166.21
+183,Classic Cookware Set,Home & Kitchen,56.65,94.52
+184,Pro Building Blocks,Toys & Games,29.53,49.23
+185,Eco Keyboard,Electronics,406.31,823.9
+186,Premium Cookbook,Books,56.47,79.04
+187,Compact Water Bottle,Sports & Outdoors,138.77,215.3
+188,Ultra Board Game,Toys & Games,30.95,53.51
+189,Deluxe Yoga Mat,Sports & Outdoors,9.58,17.81
+190,Eco Lamp,Home & Kitchen,362.49,578.28
+191,Deluxe Dress,Clothing,79.5,143.25
+192,Deluxe Webcam,Electronics,667.59,989.81
+193,Classic Jacket,Clothing,152.08,219.84
+194,Ultra Notebook,Office Supplies,47.1,65.71
+195,Basic Backpack,Sports & Outdoors,249.86,349.45
+196,Premium Webcam,Electronics,686.6,1039.95
+197,Premium Backpack,Sports & Outdoors,266.34,418.11
+198,Ultra Pen Set,Office Supplies,29.61,55.33
+199,Basic Desk Organizer,Office Supplies,57.98,78.01
+200,Smart Knife Set,Home & Kitchen,29.47,61.79
+201,Classic Water Bottle,Sports & Outdoors,48.25,90.24
+202,Eco Jeans,Clothing,12.02,18.92
+203,Classic Guidebook,Books,6.85,14.27
+204,Deluxe Cookbook,Books,13.51,19.77
+205,Basic Dress,Clothing,42.13,76.84
+206,Basic Desk Organizer,Office Supplies,53.87,111.29
+207,Smart Vacuum,Home & Kitchen,169.75,360.37
+208,Smart Biography,Books,17.48,34.89
+209,Deluxe Face Mask,Beauty & Health,8.05,13.19
+210,Ultra Desk Organizer,Office Supplies,75.87,146.13
+211,Max Card Game,Toys & Games,30.16,42.63
+212,Compact Textbook,Books,22.07,37.69
+213,Max Vacuum,Home & Kitchen,211.19,443.36
+214,Eco Desk Organizer,Office Supplies,5.66,11.49
+215,Classic Notebook,Office Supplies,3.84,6.4
+216,Ultra Toaster,Home & Kitchen,199.53,293.82
+217,Ultra Backpack,Sports & Outdoors,51.52,83.69
+218,Classic Perfume,Beauty & Health,29.39,48.45
+219,Premium Notebook,Office Supplies,18.74,32.85
+220,Compact Tent,Sports & Outdoors,36.73,54.19
+221,Ultra Puzzle,Toys & Games,21.16,28.3
+222,Deluxe Notebook,Office Supplies,54.1,98.59
+223,Deluxe Cookbook,Books,17.61,30.73
+224,Smart Card Game,Toys & Games,91.88,169.33
+225,Eco Webcam,Electronics,302.68,560.84
+226,Classic Textbook,Books,32.23,70.72
+227,Smart Jacket,Clothing,118.5,158.49
+228,Premium Novel,Books,26.61,44.42
+229,Compact Printer Paper,Office Supplies,35.98,73.83
+230,Compact Jeans,Clothing,89.69,186.31
+231,Smart Knife Set,Home & Kitchen,345.2,503.81
+232,Compact Pen Set,Office Supplies,55.54,86.14
+233,Classic Hoodie,Clothing,112.63,217.74
+234,Max Card Game,Toys & Games,112.12,231.77
+235,Premium Moisturizer,Beauty & Health,69.66,119.51
+236,Ultra Perfume,Beauty & Health,62.37,112.01
+237,Eco Webcam,Electronics,240.39,500.91
+238,Compact Lamp,Home & Kitchen,82.56,117.17
+239,Premium Router,Electronics,362.73,779.12
+240,Eco Guidebook,Books,42.38,75.75
+241,Ultra Lamp,Home & Kitchen,236.03,369.93
+242,Compact Tablet,Electronics,152.84,264.23
+243,Ultra Notebook,Office Supplies,67.55,131.25
+244,Pro Monitor,Electronics,923.57,1463.28
+245,Basic Notebook,Office Supplies,91.04,129.73
+246,Deluxe Moisturizer,Beauty & Health,65.95,145.97
+247,Eco Puzzle,Toys & Games,45.53,94.37
+248,Eco Face Mask,Beauty & Health,85.76,135.51
+249,Eco Desk Organizer,Office Supplies,32.76,60.22
+250,Ultra Keyboard,Electronics,949.01,1302.19
+251,Max Building Blocks,Toys & Games,41.9,60.06
+252,Ultra Speaker,Electronics,312.42,448.09
+253,Classic Puzzle,Toys & Games,139.07,195.18
+254,Compact Perfume,Beauty & Health,108.32,171.19
+255,Max Card Game,Toys & Games,78.25,133.72
+256,Basic Router,Electronics,811.33,1173.98
+257,Premium Desk Organizer,Office Supplies,40.89,86.99
+258,Eco Novel,Books,28.74,50.58
+259,Compact Tablet,Electronics,679.71,1056.08
+260,Ultra Dumbbell,Sports & Outdoors,94.95,140.06
+261,Pro Sneakers,Clothing,105.36,187.45
+262,Premium Printer Paper,Office Supplies,77.19,123.24
+263,Smart Hoodie,Clothing,127.94,207.15
+264,Max Textbook,Books,37.78,78.33
+265,Basic Knife Set,Home & Kitchen,215.15,322.34
+266,Basic Lamp,Home & Kitchen,208.57,342.12
+267,Deluxe Tablet,Electronics,481.8,772.29
+268,Premium Face Mask,Beauty & Health,61.49,94.91
+269,Premium Vitamin Pack,Beauty & Health,9.82,20.4
+270,Compact Building Blocks,Toys & Games,119.44,173.5
+271,Classic Backpack,Sports & Outdoors,43.72,61.42
+272,Compact Pen Set,Office Supplies,14.86,19.84
+273,Basic Water Bottle,Sports & Outdoors,200.51,358.58
+274,Deluxe Yoga Mat,Sports & Outdoors,150.99,266.04
+275,Ultra Face Mask,Beauty & Health,76.38,148.73
+276,Basic Vitamin Pack,Beauty & Health,50.85,88.42
+277,Eco Shampoo,Beauty & Health,51.61,83.06
+278,Classic Toaster,Home & Kitchen,302.41,557.62
+279,Smart Shampoo,Beauty & Health,107.26,199.45
+280,Compact Stapler,Office Supplies,18.87,36.57
+281,Ultra Puzzle,Toys & Games,164.02,236.5
+282,Basic Shampoo,Beauty & Health,47.74,103.98
+283,Deluxe Charger,Electronics,657.59,1139.94
+284,Compact Notebook,Office Supplies,83.79,125.9
+285,Classic Charger,Electronics,722.92,1072.96
+286,Basic Keyboard,Electronics,462.11,689.62
+287,Smart Perfume,Beauty & Health,101.53,196.1
+288,Ultra Knife Set,Home & Kitchen,47.1,74.71
+289,Compact Guidebook,Books,37.79,70.41
+290,Pro Knife Set,Home & Kitchen,242.17,352.2
+291,Ultra Blender,Home & Kitchen,69.52,125.2
+292,Compact Cookbook,Books,34.03,65.84
+293,Premium Biography,Books,34.02,65.21
+294,Ultra Desk Organizer,Office Supplies,48.9,85.69
+295,Premium Card Game,Toys & Games,131.75,223.17
+296,Max Stapler,Office Supplies,44.87,60.76
+297,Premium Lamp,Home & Kitchen,316.3,430.24
+298,Max Guidebook,Books,37.08,56.72
+299,Classic Tablet,Electronics,713.44,1204.07
+300,Max Dumbbell,Sports & Outdoors,171.38,272.56
+301,Basic Textbook,Books,34.42,60.04
+302,Max Guidebook,Books,46.3,67.56
+303,Max Knife Set,Home & Kitchen,56.2,93.85
+304,Classic Novel,Books,15.07,28.87
+305,Ultra Moisturizer,Beauty & Health,88.33,129.76
+306,Ultra Yoga Mat,Sports & Outdoors,135.58,254.32
+307,Smart Guidebook,Books,14.04,26.42
+308,Pro Face Mask,Beauty & Health,11.05,20.76
+309,Pro Blender,Home & Kitchen,263.18,360.33
+310,Premium Tablet,Electronics,310.57,641.43
+311,Smart Blender,Home & Kitchen,212.15,283.8
+312,Eco Guidebook,Books,55.14,78.82
+313,Deluxe Action Figure,Toys & Games,162.14,233.99
+314,Pro Notebook,Office Supplies,82.36,111.6
+315,Ultra Toaster,Home & Kitchen,331.19,568.19
+316,Pro Dress,Clothing,63.46,127.27
+317,Smart Shampoo,Beauty & Health,99.75,159.63
+318,Pro Tablet,Electronics,543.37,1204.47
+319,Pro Dress,Clothing,64.49,105.53
+320,Max Stapler,Office Supplies,76.27,119.11
+321,Deluxe Tent,Sports & Outdoors,143.96,271.67
+322,Basic T-Shirt,Clothing,94.22,155.42
+323,Compact Cookware Set,Home & Kitchen,49.19,72.64
+324,Eco Cookware Set,Home & Kitchen,238.95,481.55
+325,Classic Printer Paper,Office Supplies,49.89,75.94
+326,Smart Shampoo,Beauty & Health,93.58,141.54
+327,Smart Board Game,Toys & Games,73.95,126.39
+328,Pro Jacket,Clothing,14.26,22.28
+329,Ultra Bicycle Pump,Sports & Outdoors,139.06,186.19
+330,Pro Dumbbell,Sports & Outdoors,140.54,233.43
+331,Pro Action Figure,Toys & Games,34.82,51.24
+332,Classic Pen Set,Office Supplies,21.82,44.18
+333,Compact Printer Paper,Office Supplies,51.75,79.72
+334,Ultra Notebook,Office Supplies,28.15,52.42
+335,Eco Card Game,Toys & Games,178.91,249.19
+336,Basic Desk Organizer,Office Supplies,89.79,122.93
+337,Max Guidebook,Books,35.38,50.82
+338,Classic Blender,Home & Kitchen,193.33,314.53
+339,Smart Textbook,Books,24.95,38.36
+340,Eco Moisturizer,Beauty & Health,118.36,161.47
+341,Ultra Water Bottle,Sports & Outdoors,210.04,398.1
+342,Deluxe Moisturizer,Beauty & Health,17.33,32.96
+343,Deluxe Action Figure,Toys & Games,49.26,93.03
+344,Smart Charger,Electronics,359.7,583.38
+345,Eco Pen Set,Office Supplies,87.02,118.51
+346,Classic Jeans,Clothing,169.23,266.56
+347,Pro Cap,Clothing,23.46,31.56
+348,Premium Cookware Set,Home & Kitchen,147.28,212.56
+349,Smart Hoodie,Clothing,123.25,217.78
+350,Deluxe Stapler,Office Supplies,17.94,28.61
+351,Basic Tent,Sports & Outdoors,250.78,350.61
+352,Premium Blender,Home & Kitchen,102.22,161.93
+353,Max Novel,Books,19.86,34.72
+354,Deluxe Kettle,Home & Kitchen,41.71,60.77
+355,Basic Webcam,Electronics,156.59,323.5
+356,Pro Cookbook,Books,10.47,19.55
+357,Max Building Blocks,Toys & Games,106.7,203.79
+358,Ultra Printer Paper,Office Supplies,68.06,96.01
+359,Pro Bicycle Pump,Sports & Outdoors,25.61,48.87
+360,Premium Jeans,Clothing,142.47,264.13
+361,Compact Jacket,Clothing,196.75,296.07
+362,Pro Card Game,Toys & Games,159.33,220.14
+363,Smart Knife Set,Home & Kitchen,100.54,213.39
+364,Compact Board Game,Toys & Games,19.72,30.81
+365,Ultra Vitamin Pack,Beauty & Health,4.58,7.79
+366,Premium Knife Set,Home & Kitchen,84.65,120.51
+367,Premium Vacuum,Home & Kitchen,10.71,22.37
+368,Basic Bicycle Pump,Sports & Outdoors,65.69,109.03
+369,Compact Keyboard,Electronics,59.1,126.33
+370,Deluxe Printer Paper,Office Supplies,8.45,13.42
+371,Premium Card Game,Toys & Games,142.43,231.69
+372,Smart Perfume,Beauty & Health,8.91,11.89
+373,Classic Desk Organizer,Office Supplies,46.5,66.56
+374,Deluxe Board Game,Toys & Games,60.78,93.73
+375,Deluxe Pen Set,Office Supplies,31.09,46.56
+376,Eco Card Game,Toys & Games,36.93,65.48
+377,Classic Card Game,Toys & Games,95.0,153.52
+378,Ultra Vitamin Pack,Beauty & Health,39.65,67.83
+379,Basic Printer Paper,Office Supplies,68.15,129.34
+380,Max Jacket,Clothing,111.78,202.31
+381,Max Guidebook,Books,22.55,38.62
+382,Eco Keyboard,Electronics,1043.73,1434.22
+383,Smart Novel,Books,36.87,67.65
+384,Smart Action Figure,Toys & Games,53.03,84.42
+385,Pro Tablet,Electronics,219.65,455.91
+386,Pro Bicycle Pump,Sports & Outdoors,215.49,311.72
+387,Eco Card Game,Toys & Games,12.59,27.93
+388,Smart Printer Paper,Office Supplies,52.13,96.74
+389,Premium Shampoo,Beauty & Health,104.05,167.41
+390,Smart Jeans,Clothing,147.77,287.25
+391,Premium Vacuum,Home & Kitchen,424.94,571.06
+392,Classic Moisturizer,Beauty & Health,45.73,95.95
+393,Classic Moisturizer,Beauty & Health,56.21,119.98
+394,Classic Headphones,Electronics,191.99,367.17
+395,Compact Vitamin Pack,Beauty & Health,45.22,82.72
+396,Classic Face Mask,Beauty & Health,12.06,20.5
+397,Eco Keyboard,Electronics,675.26,1426.15
+398,Pro Biography,Books,39.34,68.35
+399,Pro Keyboard,Electronics,644.96,1022.52
+400,Classic Sneakers,Clothing,38.14,71.01
+401,Max Puzzle,Toys & Games,59.41,103.34
+402,Pro Tent,Sports & Outdoors,231.58,477.77
+403,Smart Vacuum,Home & Kitchen,143.28,196.34
+404,Smart Speaker,Electronics,123.31,205.03
+405,Premium Guidebook,Books,49.91,71.13
+406,Max Novel,Books,36.19,54.59
+407,Classic Blender,Home & Kitchen,321.12,536.23
+408,Deluxe Dress,Clothing,28.26,55.21
+409,Max Cookware Set,Home & Kitchen,292.68,434.99
+410,Pro Blender,Home & Kitchen,327.22,572.45
+411,Deluxe Sneakers,Clothing,35.81,48.84
+412,Ultra Printer Paper,Office Supplies,45.79,78.08
+413,Classic Blender,Home & Kitchen,142.74,275.88
+414,Max Face Mask,Beauty & Health,32.08,57.01
+415,Basic Perfume,Beauty & Health,8.44,16.68
+416,Compact Card Game,Toys & Games,102.99,198.68
+417,Pro Monitor,Electronics,813.69,1172.21
+418,Ultra Vacuum,Home & Kitchen,73.79,104.26
+419,Classic Yoga Mat,Sports & Outdoors,171.56,231.35
+420,Basic Guidebook,Books,41.4,56.59
+421,Basic Textbook,Books,15.32,25.91
+422,Deluxe Novel,Books,18.66,33.98
+423,Smart Jacket,Clothing,219.92,298.41
+424,Max Action Figure,Toys & Games,57.46,79.36
+425,Pro Cookbook,Books,34.27,75.23
+426,Max Jacket,Clothing,90.19,150.24
+427,Compact Tent,Sports & Outdoors,129.57,259.83
+428,Smart Router,Electronics,807.93,1481.39
+429,Max Router,Electronics,149.43,284.75
+430,Smart Guidebook,Books,41.66,74.13
+431,Smart Board Game,Toys & Games,113.52,163.29
+432,Ultra Toaster,Home & Kitchen,292.36,524.18
+433,Premium Monitor,Electronics,524.46,1129.68
+434,Pro Face Mask,Beauty & Health,92.58,157.83
+435,Ultra Jacket,Clothing,32.1,56.37
+436,Eco Puzzle,Toys & Games,82.78,132.2
+437,Basic Building Blocks,Toys & Games,59.9,131.01
+438,Classic Bicycle Pump,Sports & Outdoors,165.21,282.32
+439,Premium Action Figure,Toys & Games,70.56,100.71
+440,Smart Shampoo,Beauty & Health,73.13,134.01
+441,Pro Jeans,Clothing,164.51,271.07
+442,Smart Monitor,Electronics,836.87,1223.1
+443,Deluxe Bicycle Pump,Sports & Outdoors,245.9,339.88
+444,Classic Bicycle Pump,Sports & Outdoors,128.95,232.04
+445,Max Keyboard,Electronics,570.25,989.12
+446,Eco Knife Set,Home & Kitchen,157.87,306.83
+447,Max Dumbbell,Sports & Outdoors,219.45,319.01
+448,Max Desk Organizer,Office Supplies,54.64,111.18
+449,Eco Desk Organizer,Office Supplies,52.63,84.54
+450,Smart Dress,Clothing,134.12,226.97
+451,Smart T-Shirt,Clothing,121.57,185.34
+452,Deluxe Building Blocks,Toys & Games,70.55,103.68
+453,Max Bicycle Pump,Sports & Outdoors,280.25,427.72
+454,Compact Perfume,Beauty & Health,30.19,65.52
+455,Max Guidebook,Books,29.59,53.56
+456,Max Dress,Clothing,39.43,74.28
+457,Smart Headphones,Electronics,97.16,151.34
+458,Basic Cap,Clothing,38.99,52.6
+459,Deluxe Vacuum,Home & Kitchen,155.18,222.91
+460,Premium Tent,Sports & Outdoors,84.41,142.33
+461,Pro Knife Set,Home & Kitchen,67.87,117.74
+462,Smart Building Blocks,Toys & Games,69.83,132.49
+463,Basic Jacket,Clothing,29.52,40.9
+464,Eco Yoga Mat,Sports & Outdoors,287.78,469.69
+465,Premium Yoga Mat,Sports & Outdoors,150.76,327.79
+466,Classic Tablet,Electronics,252.16,416.64
+467,Premium Guidebook,Books,27.61,41.61
+468,Premium Webcam,Electronics,257.54,524.79
+469,Basic Monitor,Electronics,166.35,340.01
+470,Max Keyboard,Electronics,802.63,1195.03
+471,Ultra Bicycle Pump,Sports & Outdoors,10.39,19.68
+472,Max Vacuum,Home & Kitchen,110.9,162.33
+473,Max Building Blocks,Toys & Games,88.18,193.1
+474,Max Vacuum,Home & Kitchen,141.97,221.51
+475,Eco Vitamin Pack,Beauty & Health,73.51,98.23
+476,Premium Kettle,Home & Kitchen,200.03,351.3
+477,Smart Pen Set,Office Supplies,26.38,39.63
+478,Premium Moisturizer,Beauty & Health,13.21,29.06
+479,Max Perfume,Beauty & Health,21.69,28.96
+480,Premium Vacuum,Home & Kitchen,208.62,430.49
+481,Basic Speaker,Electronics,110.09,172.86
+482,Smart Backpack,Sports & Outdoors,242.75,327.22
+483,Smart Puzzle,Toys & Games,155.0,210.92
+484,Smart Printer Paper,Office Supplies,26.0,52.39
+485,Eco Speaker,Electronics,588.6,806.32
+486,Smart Face Mask,Beauty & Health,94.74,147.31
+487,Classic Novel,Books,9.69,18.09
+488,Compact T-Shirt,Clothing,89.35,178.14
+489,Classic Bicycle Pump,Sports & Outdoors,129.02,193.66
+490,Deluxe Keyboard,Electronics,768.74,1242.3
+491,Max Desk Organizer,Office Supplies,7.22,11.07
+492,Ultra Puzzle,Toys & Games,28.31,52.54
+493,Max Hoodie,Clothing,146.14,218.48
+494,Eco Headphones,Electronics,261.74,369.35
+495,Max Board Game,Toys & Games,70.3,122.6
+496,Deluxe Desk Organizer,Office Supplies,42.6,60.55
+497,Compact Notebook,Office Supplies,49.5,88.23
+498,Basic Pen Set,Office Supplies,10.9,17.25
+499,Classic Vacuum,Home & Kitchen,124.41,169.42
+500,Basic Cookbook,Books,3.97,6.54
+501,Premium T-Shirt,Clothing,21.38,36.64
+502,Premium Pen Set,Office Supplies,93.63,134.34
+503,Max Board Game,Toys & Games,134.98,238.55
+504,Premium Guidebook,Books,7.82,11.21
+505,Ultra Guidebook,Books,7.7,10.98
+506,Classic Building Blocks,Toys & Games,54.65,111.43
+507,Max Cookware Set,Home & Kitchen,164.51,272.49
+508,Ultra Building Blocks,Toys & Games,64.48,93.57
+509,Smart T-Shirt,Clothing,152.41,225.12
+510,Deluxe Dumbbell,Sports & Outdoors,335.53,489.11
+511,Smart Vacuum,Home & Kitchen,8.44,15.11
+512,Smart Kettle,Home & Kitchen,53.4,79.13
+513,Compact T-Shirt,Clothing,122.18,174.67
+514,Classic Textbook,Books,40.32,68.22
+515,Eco Perfume,Beauty & Health,121.92,190.42
+516,Pro Action Figure,Toys & Games,60.37,83.5
+517,Compact Notebook,Office Supplies,47.93,73.44
+518,Deluxe Sneakers,Clothing,61.67,104.29
+519,Classic Headphones,Electronics,930.43,1293.6
+520,Eco Cookbook,Books,15.6,23.77
+521,Pro Novel,Books,49.69,73.58
+522,Basic Vitamin Pack,Beauty & Health,88.87,130.91
+523,Classic Vitamin Pack,Beauty & Health,107.38,147.43
+524,Deluxe Card Game,Toys & Games,5.16,11.41
+525,Ultra Guidebook,Books,48.89,77.45
+526,Basic Printer Paper,Office Supplies,2.2,4.77
+527,Basic Card Game,Toys & Games,75.69,148.21
+528,Premium Speaker,Electronics,929.83,1464.58
+529,Eco Bicycle Pump,Sports & Outdoors,61.7,113.56
+530,Premium Biography,Books,9.07,12.48
+531,Ultra Face Mask,Beauty & Health,77.62,114.28
+532,Basic Hoodie,Clothing,11.17,17.38
+533,Eco Backpack,Sports & Outdoors,208.4,353.38
+534,Deluxe Kettle,Home & Kitchen,108.6,214.49
+535,Compact Hoodie,Clothing,53.72,101.85
+536,Deluxe Lamp,Home & Kitchen,73.93,149.53
+537,Compact Biography,Books,43.72,60.72
+538,Eco Biography,Books,42.0,65.55
+539,Compact Action Figure,Toys & Games,86.13,134.6
+540,Basic Building Blocks,Toys & Games,153.37,244.8
+541,Deluxe Board Game,Toys & Games,123.77,182.0
+542,Ultra Knife Set,Home & Kitchen,25.04,51.91
+543,Eco Yoga Mat,Sports & Outdoors,108.38,181.84
+544,Premium Building Blocks,Toys & Games,100.32,150.57
+545,Ultra Keyboard,Electronics,519.4,821.76
+546,Deluxe Building Blocks,Toys & Games,59.31,89.74
+547,Premium Board Game,Toys & Games,71.99,131.88
+548,Basic Cookbook,Books,5.08,7.68
+549,Smart Building Blocks,Toys & Games,114.52,169.89
+550,Deluxe Jeans,Clothing,194.64,297.21
+551,Classic Board Game,Toys & Games,106.84,216.42
+552,Ultra Yoga Mat,Sports & Outdoors,114.38,224.18
+553,Eco Board Game,Toys & Games,55.14,119.4
+554,Ultra Shampoo,Beauty & Health,108.83,166.51
+555,Eco Guidebook,Books,29.24,40.2
+556,Eco Vacuum,Home & Kitchen,225.5,318.78
+557,Eco Lamp,Home & Kitchen,70.48,118.8
+558,Pro Novel,Books,13.62,24.32
+559,Compact Speaker,Electronics,775.73,1259.18
+560,Ultra Yoga Mat,Sports & Outdoors,128.9,212.84
+561,Ultra Bicycle Pump,Sports & Outdoors,122.24,209.45
+562,Basic Keyboard,Electronics,394.76,802.39
+563,Classic Shampoo,Beauty & Health,62.55,88.33
+564,Pro Cap,Clothing,128.13,191.73
+565,Ultra Knife Set,Home & Kitchen,136.15,241.92
+566,Basic Yoga Mat,Sports & Outdoors,40.23,83.99
+567,Eco Cookbook,Books,28.25,52.28
+568,Eco Printer Paper,Office Supplies,9.18,15.61
+569,Pro Cookbook,Books,31.75,62.2
+570,Pro Jacket,Clothing,94.18,183.4
+571,Compact Printer Paper,Office Supplies,13.54,26.47
+572,Ultra Cookbook,Books,30.25,42.89
+573,Deluxe Face Mask,Beauty & Health,124.59,181.83
+574,Compact Cookbook,Books,11.56,17.47
+575,Ultra Dress,Clothing,56.36,79.1
+576,Classic Textbook,Books,30.4,45.92
+577,Smart Tablet,Electronics,259.35,429.54
+578,Pro Hoodie,Clothing,115.83,197.82
+579,Compact Lamp,Home & Kitchen,118.39,260.16
+580,Eco Cookware Set,Home & Kitchen,83.08,140.19
+581,Max Face Mask,Beauty & Health,51.3,104.93
+582,Classic Hoodie,Clothing,134.7,295.41
+583,Classic Monitor,Electronics,958.19,1392.91
+584,Deluxe Webcam,Electronics,42.0,67.06
+585,Compact T-Shirt,Clothing,38.14,71.79
+586,Pro Guidebook,Books,52.74,75.68
+587,Max Action Figure,Toys & Games,107.67,230.96
+588,Max Biography,Books,35.3,58.93
+589,Deluxe Backpack,Sports & Outdoors,22.53,35.7
+590,Premium Pen Set,Office Supplies,35.54,63.2
+591,Ultra Water Bottle,Sports & Outdoors,252.33,337.6
+592,Deluxe Vitamin Pack,Beauty & Health,15.98,25.14
+593,Deluxe Puzzle,Toys & Games,5.31,9.75
+594,Deluxe Biography,Books,55.82,78.37
+595,Max Pen Set,Office Supplies,24.69,44.05
+596,Max Guidebook,Books,42.85,59.32
+597,Premium Water Bottle,Sports & Outdoors,113.78,157.2
+598,Ultra Desk Organizer,Office Supplies,81.65,141.23
+599,Deluxe Textbook,Books,29.38,57.92
+600,Deluxe Speaker,Electronics,241.08,418.01
+601,Basic Backpack,Sports & Outdoors,74.79,130.25
+602,Ultra Cookbook,Books,16.97,26.76
+603,Classic Dress,Clothing,39.96,58.26
+604,Deluxe Shampoo,Beauty & Health,84.38,157.42
+605,Eco Moisturizer,Beauty & Health,113.74,193.89
+606,Ultra Toaster,Home & Kitchen,272.53,525.98
+607,Compact Building Blocks,Toys & Games,78.56,126.0
+608,Basic Jeans,Clothing,137.07,231.89
+609,Deluxe Guidebook,Books,36.01,63.96
+610,Compact Action Figure,Toys & Games,158.3,220.99
+611,Max Notebook,Office Supplies,32.57,59.31
+612,Smart Backpack,Sports & Outdoors,120.25,190.73
+613,Pro Action Figure,Toys & Games,136.35,226.88
+614,Eco Puzzle,Toys & Games,75.1,161.19
+615,Max Dress,Clothing,161.54,235.29
+616,Smart Keyboard,Electronics,251.74,552.33
+617,Smart Novel,Books,50.34,70.12
+618,Eco Cookbook,Books,32.82,53.48
+619,Ultra Blender,Home & Kitchen,119.6,209.83
+620,Premium Shampoo,Beauty & Health,29.89,60.07
+621,Deluxe Jeans,Clothing,28.87,54.4
+622,Compact Lamp,Home & Kitchen,84.0,118.4
+623,Ultra Guidebook,Books,12.23,22.8
+624,Compact Backpack,Sports & Outdoors,159.44,282.27
+625,Pro Sneakers,Clothing,88.13,165.53
+626,Deluxe Vacuum,Home & Kitchen,141.32,206.52
+627,Eco Water Bottle,Sports & Outdoors,265.01,376.4
+628,Basic Bicycle Pump,Sports & Outdoors,41.1,86.54
+629,Ultra Jeans,Clothing,192.51,297.09
+630,Max Action Figure,Toys & Games,55.63,112.78
+631,Compact Stapler,Office Supplies,26.56,53.52
+632,Basic Webcam,Electronics,611.63,1031.77
+633,Compact Blender,Home & Kitchen,195.95,366.11
+634,Deluxe Vacuum,Home & Kitchen,288.84,491.44
+635,Smart Face Mask,Beauty & Health,6.03,9.93
+636,Pro Router,Electronics,45.07,74.37
+637,Compact Stapler,Office Supplies,36.46,65.32
+638,Ultra Blender,Home & Kitchen,172.03,270.08
+639,Max T-Shirt,Clothing,41.44,70.42
+640,Eco Moisturizer,Beauty & Health,9.36,15.7
+641,Compact Jeans,Clothing,119.25,226.84
+642,Max Cookbook,Books,6.14,8.71
+643,Max Tent,Sports & Outdoors,173.96,318.28
+644,Pro Bicycle Pump,Sports & Outdoors,252.51,400.79
+645,Deluxe Cap,Clothing,35.48,58.3
+646,Deluxe T-Shirt,Clothing,122.99,239.02
+647,Ultra Keyboard,Electronics,352.1,511.11
+648,Ultra Router,Electronics,852.71,1328.48
+649,Basic Board Game,Toys & Games,101.79,203.52
+650,Deluxe Monitor,Electronics,319.37,517.33
+651,Deluxe Biography,Books,35.36,57.95
+652,Classic Vitamin Pack,Beauty & Health,11.41,23.39
+653,Smart Dress,Clothing,92.45,139.18
+654,Classic Guidebook,Books,33.93,48.05
+655,Premium Novel,Books,28.78,49.76
+656,Deluxe Sneakers,Clothing,180.94,288.28
+657,Basic T-Shirt,Clothing,14.67,29.26
+658,Compact Blender,Home & Kitchen,187.32,254.54
+659,Eco Vitamin Pack,Beauty & Health,26.53,46.99
+660,Eco Perfume,Beauty & Health,19.79,30.69
+661,Classic Building Blocks,Toys & Games,23.61,33.37
+662,Deluxe Printer Paper,Office Supplies,68.66,143.86
+663,Deluxe Tablet,Electronics,756.15,1072.41
+664,Deluxe Pen Set,Office Supplies,67.27,95.61
+665,Ultra Desk Organizer,Office Supplies,19.16,36.06
+666,Premium Perfume,Beauty & Health,92.26,172.09
+667,Eco Card Game,Toys & Games,101.66,224.44
+668,Deluxe Biography,Books,13.76,29.13
+669,Eco Tent,Sports & Outdoors,261.83,440.38
+670,Deluxe Textbook,Books,18.78,35.69
+671,Eco Jacket,Clothing,54.09,107.07
+672,Classic Blender,Home & Kitchen,148.49,292.24
+673,Classic Vitamin Pack,Beauty & Health,38.93,71.09
+674,Compact Textbook,Books,35.3,77.21
+675,Smart Card Game,Toys & Games,93.46,189.95
+676,Eco Sneakers,Clothing,137.9,242.29
+677,Compact Pen Set,Office Supplies,84.0,140.17
+678,Compact Pen Set,Office Supplies,39.88,87.24
+679,Classic Tablet,Electronics,768.76,1265.33
+680,Smart Shampoo,Beauty & Health,71.87,125.75
+681,Deluxe Stapler,Office Supplies,83.97,127.59
+682,Premium Puzzle,Toys & Games,100.48,189.7
+683,Max Guidebook,Books,21.8,41.38
+684,Pro Moisturizer,Beauty & Health,14.63,20.39
+685,Compact Cookware Set,Home & Kitchen,335.21,590.43
+686,Smart Knife Set,Home & Kitchen,315.95,508.99
+687,Ultra Dumbbell,Sports & Outdoors,61.38,100.24
+688,Max Novel,Books,28.0,47.36
+689,Basic Cookbook,Books,28.83,43.44
+690,Compact Notebook,Office Supplies,7.61,13.25
+691,Compact Jeans,Clothing,104.35,221.04
+692,Eco Desk Organizer,Office Supplies,82.98,116.46
+693,Basic Action Figure,Toys & Games,149.83,238.07
+694,Premium Cookbook,Books,15.77,23.55
+695,Ultra Perfume,Beauty & Health,35.1,49.86
+696,Compact Face Mask,Beauty & Health,6.59,13.49
+697,Compact Guidebook,Books,4.76,10.36
+698,Classic Vitamin Pack,Beauty & Health,39.37,77.92
+699,Smart Charger,Electronics,202.98,432.33
+700,Ultra Puzzle,Toys & Games,58.13,86.97
+701,Classic Puzzle,Toys & Games,57.13,84.65
+702,Basic Monitor,Electronics,673.52,1460.15
+703,Max Yoga Mat,Sports & Outdoors,9.12,17.44
+704,Ultra Kettle,Home & Kitchen,224.05,312.77
+705,Premium Guidebook,Books,19.33,32.94
+706,Compact Action Figure,Toys & Games,67.83,96.12
+707,Ultra Cookware Set,Home & Kitchen,116.99,228.06
+708,Eco Yoga Mat,Sports & Outdoors,61.88,121.68
+709,Ultra Cookware Set,Home & Kitchen,215.55,454.99
+710,Basic Face Mask,Beauty & Health,125.14,176.17
+711,Max Speaker,Electronics,286.16,429.16
+712,Max Water Bottle,Sports & Outdoors,163.68,329.85
+713,Premium Textbook,Books,33.82,61.29
+714,Premium Biography,Books,52.58,78.26
+715,Basic Bicycle Pump,Sports & Outdoors,200.29,319.82
+716,Deluxe Vacuum,Home & Kitchen,109.87,146.52
+717,Deluxe Textbook,Books,3.7,5.16
+718,Classic Printer Paper,Office Supplies,15.81,27.13
+719,Deluxe Jacket,Clothing,56.99,102.09
+720,Smart Kettle,Home & Kitchen,65.04,143.69
+721,Smart Vitamin Pack,Beauty & Health,60.76,104.76
+722,Deluxe Router,Electronics,166.45,301.39
+723,Max Water Bottle,Sports & Outdoors,184.28,384.66
+724,Compact Shampoo,Beauty & Health,79.27,107.98
+725,Deluxe Action Figure,Toys & Games,44.09,78.49
+726,Basic Cookware Set,Home & Kitchen,256.42,469.31
+727,Pro Cap,Clothing,166.5,251.63
+728,Max Cookbook,Books,39.44,59.17
+729,Max Yoga Mat,Sports & Outdoors,28.68,38.95
+730,Basic Stapler,Office Supplies,59.8,99.31
+731,Smart Biography,Books,41.84,68.89
+732,Basic Textbook,Books,14.54,24.16
+733,Premium Puzzle,Toys & Games,86.89,123.01
+734,Eco Tablet,Electronics,231.03,472.79
+735,Classic Card Game,Toys & Games,112.12,171.83
+736,Smart Tablet,Electronics,622.44,1293.13
+737,Eco Biography,Books,30.98,46.76
+738,Basic Notebook,Office Supplies,37.32,63.45
+739,Pro Kettle,Home & Kitchen,48.3,65.2
+740,Classic Cookbook,Books,37.6,53.43
+741,Classic Kettle,Home & Kitchen,237.07,378.97
+742,Pro Guidebook,Books,16.27,27.81
+743,Eco Guidebook,Books,15.69,33.09
+744,Ultra Desk Organizer,Office Supplies,61.02,90.17
+745,Classic Webcam,Electronics,586.72,1237.88
+746,Premium T-Shirt,Clothing,72.64,114.63
+747,Compact Headphones,Electronics,375.62,767.2
+748,Compact Sneakers,Clothing,99.74,159.17
+749,Basic Backpack,Sports & Outdoors,136.86,253.44
+750,Compact Action Figure,Toys & Games,76.1,108.31
+751,Classic Biography,Books,27.5,53.85
+752,Classic Backpack,Sports & Outdoors,127.96,273.38
+753,Classic Perfume,Beauty & Health,71.33,96.23
+754,Pro Pen Set,Office Supplies,58.27,113.27
+755,Eco Router,Electronics,631.27,886.76
+756,Compact Jacket,Clothing,48.17,70.58
+757,Eco Textbook,Books,34.92,49.36
+758,Compact Kettle,Home & Kitchen,85.92,157.04
+759,Classic Jeans,Clothing,70.93,108.45
+760,Basic Sneakers,Clothing,203.03,272.7
+761,Premium Tent,Sports & Outdoors,20.49,27.92
+762,Eco Cookbook,Books,35.6,57.68
+763,Classic Knife Set,Home & Kitchen,165.59,245.95
+764,Max Jacket,Clothing,134.2,268.52
+765,Deluxe Moisturizer,Beauty & Health,15.97,23.96
+766,Eco Shampoo,Beauty & Health,42.72,85.84
+767,Eco Desk Organizer,Office Supplies,96.11,134.39
+768,Basic Face Mask,Beauty & Health,76.6,116.45
+769,Ultra Desk Organizer,Office Supplies,26.87,47.13
+770,Smart Card Game,Toys & Games,13.09,18.41
+771,Eco T-Shirt,Clothing,132.67,188.25
+772,Pro Router,Electronics,853.6,1261.75
+773,Pro Novel,Books,15.04,24.29
+774,Max Tent,Sports & Outdoors,167.72,278.7
+775,Basic Action Figure,Toys & Games,143.76,220.21
+776,Basic Dumbbell,Sports & Outdoors,92.32,129.45
+777,Max Textbook,Books,48.39,74.31
+778,Eco Building Blocks,Toys & Games,104.52,224.69
+779,Classic Monitor,Electronics,442.54,752.49
+780,Compact Charger,Electronics,346.87,725.62
+781,Max Backpack,Sports & Outdoors,65.44,145.18
+782,Deluxe Bicycle Pump,Sports & Outdoors,294.74,401.8
+783,Deluxe Stapler,Office Supplies,38.08,80.9
+784,Ultra Blender,Home & Kitchen,306.88,421.95
+785,Smart Blender,Home & Kitchen,154.73,284.77
+786,Classic Face Mask,Beauty & Health,42.42,84.83
+787,Max Cookbook,Books,32.26,45.45
+788,Smart Shampoo,Beauty & Health,89.4,122.28
+789,Deluxe Printer Paper,Office Supplies,9.93,18.9
+790,Classic Moisturizer,Beauty & Health,9.95,15.42
+791,Premium Textbook,Books,18.15,30.11
+792,Classic Bicycle Pump,Sports & Outdoors,357.26,483.4
+793,Basic Card Game,Toys & Games,78.16,136.53
+794,Ultra T-Shirt,Clothing,13.78,27.74
+795,Ultra Biography,Books,33.42,58.88
+796,Premium Vacuum,Home & Kitchen,52.12,76.57
+797,Pro Action Figure,Toys & Games,92.53,200.28
+798,Pro Desk Organizer,Office Supplies,73.93,105.93
+799,Compact Moisturizer,Beauty & Health,9.26,19.96
+800,Pro Action Figure,Toys & Games,89.34,185.66
+801,Max T-Shirt,Clothing,12.22,16.99
+802,Ultra Backpack,Sports & Outdoors,275.3,477.1
+803,Smart Tablet,Electronics,552.25,816.77
+804,Smart Backpack,Sports & Outdoors,268.36,478.8
+805,Deluxe T-Shirt,Clothing,10.18,15.27
+806,Premium Webcam,Electronics,818.3,1358.16
+807,Deluxe Toaster,Home & Kitchen,100.45,183.57
+808,Max Puzzle,Toys & Games,25.66,47.26
+809,Premium Card Game,Toys & Games,141.84,193.62
+810,Pro Board Game,Toys & Games,100.62,170.32
+811,Classic Biography,Books,11.52,17.15
+812,Classic Printer Paper,Office Supplies,47.5,94.34
+813,Pro Dumbbell,Sports & Outdoors,178.72,339.99
+814,Premium Printer Paper,Office Supplies,33.98,54.45
+815,Premium Cap,Clothing,71.79,150.89
+816,Max Building Blocks,Toys & Games,55.65,89.98
+817,Basic Biography,Books,37.17,50.02
+818,Deluxe Puzzle,Toys & Games,156.41,227.12
+819,Max Notebook,Office Supplies,26.53,50.9
+820,Eco Vacuum,Home & Kitchen,183.76,370.46
+821,Eco Printer Paper,Office Supplies,11.57,21.85
+822,Classic Sneakers,Clothing,128.25,237.26
+823,Deluxe Dumbbell,Sports & Outdoors,127.74,202.14
+824,Ultra Moisturizer,Beauty & Health,4.4,7.57
+825,Smart Guidebook,Books,3.88,6.86
+826,Compact Water Bottle,Sports & Outdoors,16.38,30.76
+827,Classic Dress,Clothing,12.34,26.5
+828,Max Puzzle,Toys & Games,44.63,77.19
+829,Max Card Game,Toys & Games,131.73,229.47
+830,Max Stapler,Office Supplies,75.06,141.59
+831,Pro Charger,Electronics,702.86,1003.51
+832,Deluxe Puzzle,Toys & Games,70.46,119.66
+833,Smart Notebook,Office Supplies,22.89,44.08
+834,Deluxe Tent,Sports & Outdoors,116.81,179.56
+835,Deluxe Novel,Books,17.5,31.34
+836,Ultra Cap,Clothing,156.9,218.18
+837,Basic Action Figure,Toys & Games,140.34,225.96
+838,Ultra Headphones,Electronics,289.82,629.76
+839,Eco Cap,Clothing,109.07,187.57
+840,Deluxe Bicycle Pump,Sports & Outdoors,174.37,341.01
+841,Compact Action Figure,Toys & Games,21.12,44.27
+842,Pro Cookbook,Books,17.47,37.72
+843,Deluxe Face Mask,Beauty & Health,22.77,34.59
+844,Eco Pen Set,Office Supplies,16.63,35.68
+845,Deluxe Vacuum,Home & Kitchen,180.5,272.61
+846,Classic Textbook,Books,21.01,40.63
+847,Compact Notebook,Office Supplies,33.66,48.07
+848,Eco Shampoo,Beauty & Health,27.56,47.53
+849,Eco Notebook,Office Supplies,9.17,20.06
+850,Smart Knife Set,Home & Kitchen,423.77,567.83
+851,Ultra Pen Set,Office Supplies,60.01,111.29
+852,Premium Sneakers,Clothing,194.22,284.0
+853,Ultra Puzzle,Toys & Games,25.44,39.62
+854,Smart Headphones,Electronics,462.24,889.66
+855,Pro Headphones,Electronics,688.72,1074.97
+856,Premium Face Mask,Beauty & Health,13.44,19.26
+857,Classic Dumbbell,Sports & Outdoors,183.84,368.13
+858,Max Pen Set,Office Supplies,16.41,26.17
+859,Eco Stapler,Office Supplies,51.91,77.97
+860,Basic Keyboard,Electronics,126.37,217.37
+861,Premium Guidebook,Books,39.58,69.7
+862,Compact Stapler,Office Supplies,40.32,62.4
+863,Max Puzzle,Toys & Games,132.27,242.25
+864,Pro Knife Set,Home & Kitchen,12.8,25.22
+865,Premium Hoodie,Clothing,127.51,221.41
+866,Deluxe Speaker,Electronics,1011.99,1386.5
+867,Eco Blender,Home & Kitchen,131.97,269.02
+868,Eco Shampoo,Beauty & Health,88.74,150.39
+869,Max Dumbbell,Sports & Outdoors,108.33,199.13
+870,Ultra Face Mask,Beauty & Health,74.64,139.59
+871,Classic Tent,Sports & Outdoors,176.52,303.89
+872,Deluxe Guidebook,Books,11.45,17.73
+873,Eco Card Game,Toys & Games,126.55,192.8
+874,Ultra Cookbook,Books,52.79,71.23
+875,Smart Speaker,Electronics,463.75,660.73
+876,Basic Guidebook,Books,29.86,41.65
+877,Ultra Toaster,Home & Kitchen,48.86,84.98
+878,Compact Headphones,Electronics,490.37,1029.41
+879,Pro Cap,Clothing,98.01,182.42
+880,Eco Cookbook,Books,17.96,24.51
+881,Eco Biography,Books,15.54,32.38
+882,Eco Yoga Mat,Sports & Outdoors,112.57,192.52
+883,Premium Puzzle,Toys & Games,29.27,39.61
+884,Deluxe Stapler,Office Supplies,91.77,133.82
+885,Ultra Biography,Books,12.71,21.79
+886,Classic Textbook,Books,24.6,36.31
+887,Smart Lamp,Home & Kitchen,173.3,378.8
+888,Classic Printer Paper,Office Supplies,54.96,98.27
+889,Basic Board Game,Toys & Games,26.23,42.51
+890,Compact Water Bottle,Sports & Outdoors,156.27,339.98
+891,Max Building Blocks,Toys & Games,115.62,164.1
+892,Max Sneakers,Clothing,38.17,54.78
+893,Deluxe Printer Paper,Office Supplies,61.87,92.65
+894,Smart Tent,Sports & Outdoors,39.24,68.2
+895,Eco Stapler,Office Supplies,15.6,27.33
+896,Max Vacuum,Home & Kitchen,256.94,350.55
+897,Max Novel,Books,15.53,27.03
+898,Classic Bicycle Pump,Sports & Outdoors,288.3,482.99
+899,Eco Perfume,Beauty & Health,108.43,199.87
+900,Max Board Game,Toys & Games,55.48,90.5
+901,Compact Kettle,Home & Kitchen,117.63,213.65
+902,Eco Toaster,Home & Kitchen,290.74,515.07
+903,Compact Water Bottle,Sports & Outdoors,135.85,196.54
+904,Classic Speaker,Electronics,420.55,634.68
+905,Ultra Tablet,Electronics,321.49,583.46
+906,Max Building Blocks,Toys & Games,123.04,241.25
+907,Pro Shampoo,Beauty & Health,88.22,180.84
+908,Ultra Dumbbell,Sports & Outdoors,200.74,326.92
+909,Premium Monitor,Electronics,156.75,226.19
+910,Eco Toaster,Home & Kitchen,172.89,373.49
+911,Compact Blender,Home & Kitchen,288.65,572.61
+912,Basic Textbook,Books,26.99,39.79
+913,Smart Blender,Home & Kitchen,126.9,212.53
+914,Deluxe Webcam,Electronics,297.07,417.86
+915,Premium Backpack,Sports & Outdoors,36.59,66.15
+916,Max Board Game,Toys & Games,21.82,32.26
+917,Pro Pen Set,Office Supplies,26.21,56.85
+918,Deluxe Webcam,Electronics,885.43,1424.51
+919,Compact Cap,Clothing,21.85,41.6
+920,Eco Card Game,Toys & Games,112.8,187.05
+921,Smart Water Bottle,Sports & Outdoors,163.37,268.47
+922,Eco Perfume,Beauty & Health,38.33,71.21
+923,Deluxe Cap,Clothing,77.95,159.34
+924,Classic Biography,Books,23.75,33.88
+925,Pro Biography,Books,46.03,71.84
+926,Max Face Mask,Beauty & Health,58.28,80.83
+927,Ultra Shampoo,Beauty & Health,88.82,194.15
+928,Basic Desk Organizer,Office Supplies,14.48,23.53
+929,Max Pen Set,Office Supplies,5.01,10.34
+930,Classic Pen Set,Office Supplies,41.66,71.22
+931,Premium Printer Paper,Office Supplies,77.41,108.2
+932,Max Novel,Books,32.51,51.03
+933,Ultra Router,Electronics,1030.55,1479.96
+934,Compact Cap,Clothing,122.14,267.11
+935,Basic Kettle,Home & Kitchen,114.08,250.74
+936,Classic Hoodie,Clothing,84.2,178.32
+937,Premium Dumbbell,Sports & Outdoors,103.29,221.51
+938,Smart Sneakers,Clothing,63.59,117.84
+939,Max Dress,Clothing,141.55,275.0
+940,Pro Hoodie,Clothing,155.73,211.78
+941,Premium Moisturizer,Beauty & Health,35.19,71.32
+942,Deluxe Router,Electronics,359.46,625.35
+943,Basic Hoodie,Clothing,115.27,188.9
+944,Eco Vacuum,Home & Kitchen,272.02,533.89
+945,Basic Novel,Books,32.03,65.97
+946,Smart Card Game,Toys & Games,77.84,116.15
+947,Compact Water Bottle,Sports & Outdoors,310.55,434.01
+948,Smart Building Blocks,Toys & Games,18.36,36.43
+949,Compact Cap,Clothing,74.08,153.7
+950,Classic Moisturizer,Beauty & Health,95.08,129.39
+951,Classic Cookware Set,Home & Kitchen,59.18,130.13
+952,Classic Speaker,Electronics,283.85,439.65
+953,Max Cookbook,Books,13.02,23.96
+954,Eco Cookbook,Books,29.04,62.06
+955,Max Novel,Books,18.17,35.79
+956,Smart Face Mask,Beauty & Health,18.69,31.21
+957,Classic Guidebook,Books,50.35,72.81
+958,Pro Novel,Books,49.19,67.5
+959,Ultra Headphones,Electronics,374.34,500.23
+960,Compact Novel,Books,2.51,5.42
+961,Smart Yoga Mat,Sports & Outdoors,17.31,29.9
+962,Classic Webcam,Electronics,378.88,628.98
+963,Eco Card Game,Toys & Games,20.88,28.48
+964,Pro Board Game,Toys & Games,21.72,35.06
+965,Premium Stapler,Office Supplies,66.43,100.34
+966,Classic Biography,Books,47.98,64.89
+967,Eco Printer Paper,Office Supplies,66.49,130.74
+968,Basic Blender,Home & Kitchen,123.64,239.71
+969,Smart Backpack,Sports & Outdoors,236.1,355.75
+970,Basic Keyboard,Electronics,727.0,1122.05
+971,Compact Charger,Electronics,43.51,58.2
+972,Max Jacket,Clothing,95.14,140.38
+973,Ultra Knife Set,Home & Kitchen,409.31,598.36
+974,Pro Vitamin Pack,Beauty & Health,148.7,198.68
+975,Deluxe Biography,Books,38.76,58.66
+976,Eco Puzzle,Toys & Games,119.77,235.69
+977,Eco Guidebook,Books,24.65,47.73
+978,Eco Textbook,Books,47.98,74.16
+979,Compact Cookbook,Books,14.79,26.79
+980,Max Shampoo,Beauty & Health,110.01,161.43
+981,Classic Card Game,Toys & Games,102.84,150.46
+982,Premium Webcam,Electronics,121.67,191.67
+983,Ultra Action Figure,Toys & Games,126.81,170.3
+984,Basic Water Bottle,Sports & Outdoors,19.95,26.92
+985,Ultra Toaster,Home & Kitchen,372.99,542.87
+986,Basic Water Bottle,Sports & Outdoors,212.2,398.94
+987,Premium Tablet,Electronics,49.53,71.5
+988,Compact Printer Paper,Office Supplies,10.5,22.14
+989,Pro Blender,Home & Kitchen,282.83,425.37
+990,Compact Guidebook,Books,18.44,40.09
+991,Premium Jacket,Clothing,140.4,242.91
+992,Eco Keyboard,Electronics,147.61,223.66
+993,Compact Yoga Mat,Sports & Outdoors,8.04,12.08
+994,Max Speaker,Electronics,839.04,1440.19
+995,Basic Cap,Clothing,95.98,205.66
+996,Pro Monitor,Electronics,290.17,538.6
+997,Ultra Tent,Sports & Outdoors,198.62,285.63
+998,Max Knife Set,Home & Kitchen,154.72,323.15
+999,Deluxe Cap,Clothing,156.87,229.34
+1000,Smart Biography,Books,7.26,12.64
+1001,Classic Backpack,Sports & Outdoors,281.4,443.34
+1002,Compact Jacket,Clothing,197.43,263.48
+1003,Basic Perfume,Beauty & Health,86.03,165.67
+1004,Premium Shampoo,Beauty & Health,45.12,63.43
+1005,Ultra Cap,Clothing,156.7,225.58
+1006,Eco Cookbook,Books,17.24,34.1
+1007,Max Toaster,Home & Kitchen,306.26,427.07
+1008,Smart Bicycle Pump,Sports & Outdoors,39.1,74.92
+1009,Ultra Water Bottle,Sports & Outdoors,96.68,192.59
+1010,Pro Face Mask,Beauty & Health,97.26,198.71
+1011,Max Lamp,Home & Kitchen,279.47,509.27
+1012,Smart Textbook,Books,31.38,43.33
+1013,Smart Sneakers,Clothing,50.8,99.83
+1014,Smart Puzzle,Toys & Games,70.02,110.16
+1015,Basic Monitor,Electronics,102.54,187.73
+1016,Deluxe T-Shirt,Clothing,39.56,55.86
+1017,Compact Guidebook,Books,39.56,57.15
+1018,Compact Dress,Clothing,23.31,41.08
+1019,Eco Cap,Clothing,41.5,60.82
+1020,Classic Textbook,Books,39.53,56.36
+1021,Ultra Shampoo,Beauty & Health,88.32,195.66
+1022,Eco Vitamin Pack,Beauty & Health,12.07,19.71
+1023,Ultra Novel,Books,28.05,59.0
+1024,Smart Router,Electronics,477.53,671.69
+1025,Max Jacket,Clothing,31.63,43.43
+1026,Compact Stapler,Office Supplies,21.65,33.97
+1027,Ultra Cookbook,Books,8.52,18.09
+1028,Deluxe Stapler,Office Supplies,95.51,128.67
+1029,Deluxe Vitamin Pack,Beauty & Health,93.76,151.33
+1030,Premium Lamp,Home & Kitchen,170.39,308.9
+1031,Pro Puzzle,Toys & Games,28.09,60.46
+1032,Pro Action Figure,Toys & Games,88.55,158.89
+1033,Max Water Bottle,Sports & Outdoors,324.71,496.77
+1034,Compact Puzzle,Toys & Games,41.29,75.22
+1035,Premium Backpack,Sports & Outdoors,227.78,377.77
+1036,Deluxe Vacuum,Home & Kitchen,15.65,25.14
+1037,Pro T-Shirt,Clothing,114.52,177.82
+1038,Ultra Toaster,Home & Kitchen,233.55,409.43
+1039,Deluxe Action Figure,Toys & Games,50.77,86.18
+1040,Eco Puzzle,Toys & Games,136.99,239.79
+1041,Max Notebook,Office Supplies,4.43,6.52
+1042,Ultra Puzzle,Toys & Games,78.67,142.01
+1043,Smart Hoodie,Clothing,59.86,93.79
+1044,Deluxe Toaster,Home & Kitchen,109.63,162.74
+1045,Classic Hoodie,Clothing,35.06,49.75
+1046,Premium Sneakers,Clothing,60.79,110.13
+1047,Classic Blender,Home & Kitchen,229.25,400.75
+1048,Classic Perfume,Beauty & Health,86.84,160.66
+1049,Premium Perfume,Beauty & Health,36.78,63.63
+1050,Compact Moisturizer,Beauty & Health,77.53,146.22
+1051,Max Toaster,Home & Kitchen,35.41,59.82
+1052,Deluxe Face Mask,Beauty & Health,85.11,153.44
+1053,Classic Vitamin Pack,Beauty & Health,19.77,35.93
+1054,Smart Bicycle Pump,Sports & Outdoors,107.12,143.45
+1055,Classic Blender,Home & Kitchen,209.68,384.51
+1056,Max Hoodie,Clothing,130.96,252.37
+1057,Max Speaker,Electronics,452.64,942.49
+1058,Premium Tent,Sports & Outdoors,170.39,339.05
+1059,Ultra Novel,Books,12.33,16.72
+1060,Smart Router,Electronics,240.18,414.91
+1061,Ultra Board Game,Toys & Games,17.72,25.65
+1062,Classic Bicycle Pump,Sports & Outdoors,8.84,18.67
+1063,Compact Cookware Set,Home & Kitchen,203.52,356.48
+1064,Deluxe Face Mask,Beauty & Health,28.13,50.85
+1065,Deluxe Bicycle Pump,Sports & Outdoors,157.58,282.06
+1066,Pro Pen Set,Office Supplies,96.25,148.23
+1067,Eco Card Game,Toys & Games,91.63,132.24
+1068,Smart Moisturizer,Beauty & Health,67.28,106.6
+1069,Premium Cap,Clothing,143.47,217.1
+1070,Basic Dumbbell,Sports & Outdoors,29.44,40.79
+1071,Eco Face Mask,Beauty & Health,118.18,188.6
+1072,Ultra Board Game,Toys & Games,90.21,124.05
+1073,Ultra Novel,Books,10.03,14.78
+1074,Pro Building Blocks,Toys & Games,158.12,216.56
+1075,Pro Charger,Electronics,569.24,944.48
+1076,Classic Jacket,Clothing,155.33,259.96
+1077,Deluxe Board Game,Toys & Games,105.81,172.05
+1078,Pro Moisturizer,Beauty & Health,26.2,43.99
+1079,Ultra Board Game,Toys & Games,71.2,120.68
+1080,Basic Charger,Electronics,281.29,443.34
+1081,Eco Bicycle Pump,Sports & Outdoors,79.67,169.42
+1082,Ultra Perfume,Beauty & Health,99.16,180.26
+1083,Basic Blender,Home & Kitchen,269.19,562.54
+1084,Premium Yoga Mat,Sports & Outdoors,266.25,441.39
+1085,Premium T-Shirt,Clothing,189.46,291.32
+1086,Premium Building Blocks,Toys & Games,44.64,98.69
+1087,Premium Card Game,Toys & Games,60.12,80.47
+1088,Eco Card Game,Toys & Games,92.5,192.74
+1089,Classic Yoga Mat,Sports & Outdoors,22.74,45.43
+1090,Basic Printer Paper,Office Supplies,43.4,86.76
+1091,Ultra Board Game,Toys & Games,98.33,179.13
+1092,Compact Action Figure,Toys & Games,100.04,153.56
+1093,Deluxe Lamp,Home & Kitchen,305.46,594.07
+1094,Deluxe Board Game,Toys & Games,37.61,59.76
+1095,Max Shampoo,Beauty & Health,9.88,21.79
+1096,Pro Cookbook,Books,46.76,79.13
+1097,Pro Building Blocks,Toys & Games,79.88,126.84
+1098,Deluxe Desk Organizer,Office Supplies,18.07,33.24
+1099,Eco Vacuum,Home & Kitchen,293.35,534.94
+1100,Compact Textbook,Books,4.38,6.29
+1101,Max Printer Paper,Office Supplies,19.97,34.68
+1102,Smart Puzzle,Toys & Games,140.68,242.75
+1103,Eco Vitamin Pack,Beauty & Health,61.21,119.95
+1104,Compact Notebook,Office Supplies,68.51,105.99
+1105,Premium Tent,Sports & Outdoors,35.69,74.75
+1106,Classic Tent,Sports & Outdoors,239.05,417.45
+1107,Compact Action Figure,Toys & Games,135.16,243.53
+1108,Ultra Headphones,Electronics,595.87,1009.78
+1109,Basic Pen Set,Office Supplies,9.33,20.65
+1110,Basic Puzzle,Toys & Games,117.97,227.85
+1111,Pro Toaster,Home & Kitchen,169.05,329.22
+1112,Max Stapler,Office Supplies,70.68,119.16
+1113,Basic Tablet,Electronics,227.62,415.41
+1114,Basic Yoga Mat,Sports & Outdoors,60.47,86.49
+1115,Smart Textbook,Books,45.93,62.38
+1116,Basic Cap,Clothing,62.81,117.3
+1117,Premium Vacuum,Home & Kitchen,34.81,52.4
+1118,Basic Desk Organizer,Office Supplies,3.48,5.16
+1119,Premium Building Blocks,Toys & Games,74.22,126.47
+1120,Ultra Headphones,Electronics,888.33,1244.78
+1121,Max Lamp,Home & Kitchen,280.43,577.03
+1122,Ultra Headphones,Electronics,697.46,1249.85
+1123,Premium Biography,Books,23.44,45.16
+1124,Eco Building Blocks,Toys & Games,57.05,107.52
+1125,Compact Hoodie,Clothing,11.66,22.63
+1126,Eco Bicycle Pump,Sports & Outdoors,236.77,331.6
+1127,Classic Board Game,Toys & Games,52.86,104.98
+1128,Smart Headphones,Electronics,645.43,1051.28
+1129,Premium Pen Set,Office Supplies,46.74,71.5
+1130,Ultra Cookbook,Books,28.28,46.73
+1131,Eco Guidebook,Books,44.23,71.49
+1132,Smart Pen Set,Office Supplies,79.53,146.96
+1133,Premium Yoga Mat,Sports & Outdoors,225.76,311.83
+1134,Smart Knife Set,Home & Kitchen,245.9,352.35
+1135,Deluxe Desk Organizer,Office Supplies,34.46,48.33
+1136,Eco Novel,Books,39.76,64.34
+1137,Smart Action Figure,Toys & Games,131.34,184.64
+1138,Compact Pen Set,Office Supplies,66.79,97.59
+1139,Eco Moisturizer,Beauty & Health,40.36,73.65
+1140,Classic Moisturizer,Beauty & Health,74.18,137.96
+1141,Deluxe Cap,Clothing,96.01,168.35
+1142,Classic Building Blocks,Toys & Games,147.46,208.89
+1143,Compact Dumbbell,Sports & Outdoors,191.29,372.55
+1144,Classic Jeans,Clothing,158.38,253.6
+1145,Deluxe Desk Organizer,Office Supplies,18.42,33.44
+1146,Compact Lamp,Home & Kitchen,121.21,189.99
+1147,Compact Stapler,Office Supplies,66.91,101.13
+1148,Max Biography,Books,11.28,23.79
+1149,Compact Vitamin Pack,Beauty & Health,31.52,58.46
+1150,Smart Perfume,Beauty & Health,74.43,157.89
+1151,Pro Charger,Electronics,90.7,129.08
+1152,Compact Textbook,Books,18.44,25.44
+1153,Smart Board Game,Toys & Games,35.73,65.05
+1154,Eco Textbook,Books,4.91,9.03
+1155,Eco Guidebook,Books,36.4,54.63
+1156,Deluxe Guidebook,Books,6.3,10.9
+1157,Smart Notebook,Office Supplies,26.74,46.55
+1158,Ultra Guidebook,Books,37.7,53.22
+1159,Eco Router,Electronics,393.23,811.77
+1160,Basic Vacuum,Home & Kitchen,213.26,325.64
+1161,Deluxe Hoodie,Clothing,64.44,95.21
+1162,Eco Puzzle,Toys & Games,124.04,172.12
+1163,Basic Vitamin Pack,Beauty & Health,10.96,17.55
+1164,Basic Charger,Electronics,416.81,767.22
+1165,Max Textbook,Books,7.71,12.4
+1166,Eco Dress,Clothing,175.74,242.56
+1167,Ultra Jeans,Clothing,19.76,30.85
+1168,Pro Pen Set,Office Supplies,52.56,101.05
+1169,Max Puzzle,Toys & Games,58.82,101.81
+1170,Compact Tablet,Electronics,265.86,449.0
+1171,Pro Bicycle Pump,Sports & Outdoors,194.2,328.97
+1172,Ultra Tent,Sports & Outdoors,140.32,201.55
+1173,Deluxe Monitor,Electronics,671.05,918.31
+1174,Ultra Dress,Clothing,40.66,88.3
+1175,Ultra Webcam,Electronics,801.02,1073.88
+1176,Basic Monitor,Electronics,122.34,246.3
+1177,Ultra Tent,Sports & Outdoors,201.8,325.73
+1178,Basic Bicycle Pump,Sports & Outdoors,85.19,163.17
+1179,Pro Tablet,Electronics,435.27,918.97
+1180,Eco Cookware Set,Home & Kitchen,14.96,31.88
+1181,Basic Water Bottle,Sports & Outdoors,46.43,92.45
+1182,Max Pen Set,Office Supplies,42.83,63.55
+1183,Premium Vacuum,Home & Kitchen,86.87,174.6
+1184,Ultra Puzzle,Toys & Games,82.54,173.55
+1185,Smart Notebook,Office Supplies,6.14,13.22
+1186,Pro Yoga Mat,Sports & Outdoors,80.01,153.84
+1187,Classic Biography,Books,22.48,42.89
+1188,Deluxe Sneakers,Clothing,120.34,184.95
+1189,Max Moisturizer,Beauty & Health,113.94,168.17
+1190,Deluxe Board Game,Toys & Games,12.14,25.38
+1191,Pro Textbook,Books,45.19,69.75
+1192,Compact Textbook,Books,15.67,23.44
+1193,Deluxe Vitamin Pack,Beauty & Health,77.82,107.13
+1194,Deluxe Perfume,Beauty & Health,31.6,47.52
+1195,Classic Lamp,Home & Kitchen,219.53,316.24
+1196,Ultra Speaker,Electronics,203.39,413.45
+1197,Max Yoga Mat,Sports & Outdoors,47.03,78.84
+1198,Classic Cookware Set,Home & Kitchen,91.57,133.18
+1199,Deluxe Pen Set,Office Supplies,6.55,10.35
+1200,Premium Action Figure,Toys & Games,68.71,141.2
